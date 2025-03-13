@@ -153,6 +153,7 @@ img {
 }
 
 .mv-container img {
+  width: 100%;
   max-width: 800px;
   height: auto;
 }
@@ -192,6 +193,7 @@ img {
 }
 
 .works-info {
+  word-wrap: break-word;
   font-size: 10px;
   margin-top: 5px;
 }
